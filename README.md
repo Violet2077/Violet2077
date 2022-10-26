@@ -20,7 +20,7 @@
 <img src="https://s3.eu-west-1.amazonaws.com/images.geeknative.com/wp-content/uploads/2019/07/19215203/violet-evergarden.jpg" alt="if it cant appear then her name is kaori in ur lie in april">
 <p><cite>violet evergarden</cite>violet evergarden</p>
 <hr>
-<img src="https://www.nawpic.com/media/2020/miku-nakano-nawpic.jpg" width="350" height="400" alt="if it cant appear the nher name is miku nakano"
+<img src="https://www.nawpic.com/media/2020/miku-nakano-nawpic.jpg" width="325" height="400" alt="if it cant appear the nher name is miku nakano"
 <p><cite>miku nakno</cite>gotoubun no hanayome</p>
 <pre>
 <hr>
