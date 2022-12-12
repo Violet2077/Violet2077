@@ -6,17 +6,9 @@
        
 <!DOCTYPE html>
 <html>
-<head>
-       <style>
-              .center {
-              text-align: center;
-              }
-       </style>
-</head>
-       <h1 style="text-align:center;">hi there i'm a otaku</h1>
-       <br>
-       <p style="text-align:center;">i'm having some problem in communicate so i don't have much freind</p>
 <body>
+       <h2 style="text-align:center;">hi there i'm a otaku</h2>
+       <p style="text-align:center;font-size:150%;">i'm having some problem in communicate so i don't have much freind</p>
        <div class="center">
               <h4>as a otaku ofc i'll have some waifu, i'll share my waifu to u</h4>
               <img src="https://pbs.twimg.com/media/FSR1jFnXIAEcKTj?format=jpg&name=900x900" alt="miku naknano - gotoubun no hanayome">
