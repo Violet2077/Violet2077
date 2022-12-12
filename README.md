@@ -15,7 +15,8 @@
        background-color:#787878
        }
        </style>
-       <h2 style="text-align:center;">hi there i'm a otaku</h2>
+       
+       <h2 style="text-align: center;">hi there i'm a otaku</h2>
        <p style="text-align:center;font-size:150%;">i'm having some problem in communicate so i don't have much freind</p>
        <div class="center">
               <h4>as a otaku ofc i'll have some waifu, i'll share my waifu to u</h4>
