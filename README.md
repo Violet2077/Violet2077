@@ -6,17 +6,6 @@
        
 <!DOCTYPE html>
 <html>
-<head>
-       <style>
-       .center {
-       padding: 70px 0;
-       border: 3px solid green;
-       text-align: center;
-       background-color:#787878;
-       font-family:Monospace;
-       }
-       </style>
-</head>
 <body>
        <h2 style="text-align:center;font-family:Monospace;">hi there i'm a otaku</h2>
        <p style="text-align:center;font-size:150%;">i'm having some problem in communicate so i don't have much freind</p>
@@ -32,8 +21,3 @@
        </div>
 </body>
 </html>
-       
-<!---
-Violet2077/Violet2077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
