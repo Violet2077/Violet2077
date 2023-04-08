@@ -7,8 +7,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-       <h2 style="text-align:center;font-family:Monospace;">hi there i'm a otaku</h2>
-       <p style="text-align:center;font-size:150%;">i'm having some problem in communicate so i don't have much freind</p>
+       <h2 style="text-align:center;font-family:Monospace;">hi there i'm a bunch of trash, everyone called me the hentai otaku</h2>
+       <p style="text-align:center;font-size:150%;">my social skill r quite low if i don't want to let u know that it's most basic thing in the world</p>
        <div class="center">
               <h4>as a otaku ofc i'll have some waifu, i'll share my waifu to u</h4>
               <img src="https://c4.wallpaperflare.com/wallpaper/901/211/595/go-toubun-no-hanayome-nakano-miku-bikini-hd-wallpaper-preview.jpg" alt="miku naknano - gotoubun no hanayome">
